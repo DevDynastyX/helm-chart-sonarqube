@@ -5,7 +5,7 @@ All changes to this chart will be documented in this file.
 * Update Chart's version to 10.7.0
 * Support Kubernetes v1.30
 * Upgrade ingress-nginx dependency to 4.10.1
-* Fix typo about searchNodes.podDisruptionBudget and replaced it with applicationNodes.podDisruptionBudget
+* Fix typo about `searchNodes.podDisruptionBudget` and replaced it with `applicationNodes.podDisruptionBudget`
 
 ## [10.6.0]
 * Upgrade SonarQube to 10.6.0
